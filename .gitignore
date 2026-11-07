@@ -1,0 +1,13 @@
+# Nooit committen
+*.env
+secrets*
+*.key
+*.pem
+*.pdf
+*.xlsx
+*.xls
+*.csv
+*.qif
+*.sta
+*.STA
+.DS_Store
